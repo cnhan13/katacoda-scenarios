@@ -1,0 +1,21 @@
+{
+  "title": "Scenario 0",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "golang:1.14"
+  }
+}
